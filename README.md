@@ -1,7 +1,10 @@
 ### Hello there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=871AF7&multiline=true&random=false&width=530&height=60&lines=Nick+Liou;Electrical+and+Computer+Engineering+student)](https://git.io/typing-svg)
+
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&multiline=true&random=false&width=600&height=120&lines=Nick+Liou+;Electrical+and+Computer+Engineering+student)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=871AF7&multiline=true&random=false&width=530&height=60&lines=Nick+Liou;Electrical+and+Computer+Engineering+student)](https://git.io/typing-svg)
+-->
 <br/>
 
 <!--
