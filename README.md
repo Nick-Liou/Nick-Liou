@@ -1,14 +1,12 @@
-### Hi there 👋
+### Hello there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&multiline=true&random=false&width=600&height=120&lines=Nick+Liou+;Electrical+and+Computer+Engineering+student)](https://git.io/typing-svg)
 
 
-### Hi there 👋 🦆
-
 <br/>
-
-## You can find me on 
 <!--
+## You can find me on 
+
 <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  --> 
@@ -25,15 +23,18 @@
 </a> --> 
 
 
+<!--
 ## Frontend Development 
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,angular,js)](https://skillicons.dev)
 
+-->
+
 ## Other Languages 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,arduino,matlab,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,arduino,matlab,mysql)](https://skillicons.dev)
 
 ## My Github Stats
 
