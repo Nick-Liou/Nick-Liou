@@ -2,15 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&multiline=true&random=false&width=600&height=120&lines=Nick+Liou+;Electrical+and+Computer+Engineering+student)](https://git.io/typing-svg)
 
-
 <br/>
+
 <!--
 ## You can find me on 
 
 <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  --> 
-    
 <!--</a>
 <a href="mailto:georgiou.kostas94@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
@@ -21,8 +20,6 @@
 <a href="https://pypi.org/user/drkostas/">
     <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
 </a> --> 
-
-
 <!--
 ## Frontend Development 
 <br/>
@@ -31,10 +28,10 @@
 
 -->
 
-## Other Languages 
+## Languages 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,arduino,matlab,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,arduino,matlab,mysql,verilog)](https://skillicons.dev)
 
 ## My Github Stats
 
