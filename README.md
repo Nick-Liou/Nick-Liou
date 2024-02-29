@@ -34,7 +34,7 @@
 ## Languages 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,arduino,matlab,mysql,verilog)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,matlab,java,arduino,mysql,verilog)](https://skillicons.dev)
 
 ## My Github Stats
 
