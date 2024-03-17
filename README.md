@@ -36,6 +36,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,matlab,java,arduino,mysql,verilog)](https://skillicons.dev)
 
+
+<!--Languages and Tools Section     
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=python,c,cpp,matlab,java,arduino,mysql,verilog&perline=7"  />
+</p>
+<br />
+-->  
+
 ## My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nick-Liou&theme=2077)
